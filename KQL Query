@@ -1,0 +1,3 @@
+AzureActivity
+| where OperationNameValue contains "MICROSOFT.STORAGE"
+| where CallerIpAddress == "2a09:bac5:3804:2696::3d8:3c"
