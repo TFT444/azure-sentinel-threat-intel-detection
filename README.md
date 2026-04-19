@@ -93,16 +93,25 @@ The incident investigation includes:
 * Demonstrates automated SOC response workflow
 
 ---
-
 ## 📸 Screenshots
 
-screenshots/threat-intelligence.png
-screenshots/detection-logs.png
-screenshots/analytics-rule.png
-screenshots/alerts.png
-screenshots/incident-investigation.png
-screenshots/email-alert.png
+### 🔹 Threat Intelligence
+![Threat Intelligence](threat-intelligence.png)
 
+### 🔹 Detection Logs (KQL Query)
+![Detection Logs](detection-logs.png)
+
+### 🔹 Analytics Rule
+![Analytics Rule](analytics-rule.png)
+
+### 🔹 Alerts Triggered
+![Alerts](alerts.png)
+
+### 🔹 Incident Investigation
+![Incident Investigation](incident-investigation.png)
+
+### 🔹 Email Notification (Automation)
+![Email Alert](email-alert.png)
 ---
 
 ## 📂 Project Structure
