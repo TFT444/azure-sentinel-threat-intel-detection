@@ -158,4 +158,4 @@ Successfully built an end-to-end SOC detection and response workflow:
 
 ## 📌 Author
 
-Your Name
+Tanvir Farhad
