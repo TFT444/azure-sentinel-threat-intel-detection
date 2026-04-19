@@ -96,29 +96,12 @@ The incident investigation includes:
 
 ## 📸 Screenshots
 
-### 1. Threat Intelligence Indicators
-
-![Threat Intelligence](screenshots/threat-intelligence.png)
-
-### 2. Detection Query (Logs)
-
-![Logs Detection](screenshots/detection-logs.png)
-
-### 3. Analytics Rule
-
-![Analytics Rule](screenshots/analytics-rule.png)
-
-### 4. Alerts Generated
-
-![Alerts](screenshots/alerts.png)
-
-### 5. Incident Investigation
-
-![Incident](screenshots/incident-investigation.png)
-
-### 6. Email Notification (Automation)
-
-![Email](screenshots/email-alert.png)
+screenshots/threat-intelligence.png
+screenshots/detection-logs.png
+screenshots/analytics-rule.png
+screenshots/alerts.png
+screenshots/incident-investigation.png
+screenshots/email-alert.png
 
 ---
 
